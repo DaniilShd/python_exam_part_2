@@ -1,0 +1,3 @@
+DEBUG: Starting new HTTPS connection (1): dummyjson.com:443
+DEBUG: https://dummyjson.com:443 "GET /test HTTP/11" 200 30
+INFO: Данные успешно получены
